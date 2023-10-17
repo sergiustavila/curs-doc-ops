@@ -6,11 +6,30 @@
 Welcome to Curs Doc as Code's documentation!
 ============================================
 
+**Sergiu Stavila**
+
+*DevOps*
+
+:List elemente:
+ - Elementul 1
+ - Elementul 2
+ - Elementul 3
+ - Elementul 4
+ - Elementul 5
+
+:Lista numerotata:
+ #. Elementul x
+ #. Elementul y
+ #. Elementul z
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+   :caption: Pagina de test
 
+   test 
 
 Indices and tables
 ==================
