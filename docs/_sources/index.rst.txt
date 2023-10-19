@@ -8,19 +8,29 @@ Welcome to Curs Doc as Code's documentation!
 
 **Sergiu Stavila**
 
-*DevOps*
+*Java Developer and DevOps engineer*
+------------------------------------
 
-:List elemente:
- - Elementul 1
- - Elementul 2
- - Elementul 3
- - Elementul 4
- - Elementul 5
+:Limbajele de programare preferate:
+   - Java
+   - PHP
+   - Python
+   - C++
 
-:Lista numerotata:
- #. Elementul x
- #. Elementul y
- #. Elementul z
+:Hobiuri:
+   #. Traveling
+   #. Odihna in natura
+   #. Citit
+   #. Sport
+
+ :Gen de filme preferate:
+   * Adventure
+   * Comedies
+   * Action
+ 
+ :Carti preferate:
+   - Dezvoltare personala
+   - Programare
 
 .. toctree::
    :maxdepth: 2
@@ -30,10 +40,3 @@ Welcome to Curs Doc as Code's documentation!
    :caption: Pagina de test
 
    test 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
