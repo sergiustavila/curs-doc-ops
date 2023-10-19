@@ -23,14 +23,20 @@ Welcome to Curs Doc as Code's documentation!
    #. Citit
    #. Sport
 
- :Gen de filme preferate:
+:Gen de filme preferate:
    * Adventure
    * Comedies
    * Action
  
- :Carti preferate:
+:Carti preferate:
    - Dezvoltare personala
    - Programare
+
+.. code-block:: bash
+   :linenos:
+
+   cd home
+   cp build docs
 
 .. toctree::
    :maxdepth: 2
